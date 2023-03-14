@@ -65,7 +65,7 @@
     <easypoi.version>2.4.0</easypoi.version>
     <javax.mail.version>1.4.5</javax.mail.version>
     <sun.mail.version>1.5.4</sun.mail.version>
-    <apm-toolkit-log4j-2.x.version>8.10.0</apm-toolkit-log4j-2.x.version>
+    <apm-toolkit-log4j-2.x.version>8.14.0</apm-toolkit-log4j-2.x.version>
     <spring-boot-admin.version>2.6.7</spring-boot-admin.version>
     <nacos-client.version>2.2.0</nacos-client.version>
 
