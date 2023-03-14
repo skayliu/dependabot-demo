@@ -56,8 +56,8 @@
     <disruptor.version>3.4.4</disruptor.version>
 
     <javassist.version>3.29.0-GA</javassist.version>
-    <guava.version>23.0</guava.version>
-    <hutool.version>5.8.0</hutool.version>
+    <guava.version>31.1-jre</guava.version>
+    <hutool.version>5.8.15</hutool.version>
     <fastjson.version>1.2.83</fastjson.version>
     <fastjson2.version>2.0.4</fastjson2.version>
     <transmittable.version>2.11.5</transmittable.version>
