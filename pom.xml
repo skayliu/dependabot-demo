@@ -32,7 +32,7 @@
     <spring-cloud-starter-oauth2.version>2.2.5.RELEASE</spring-cloud-starter-oauth2.version>
 
     <mysql.version>8.0.29</mysql.version>
-    <druid-spring-boot.version>1.2.9</druid-spring-boot.version>
+    <druid-spring-boot.version>1.2.16</druid-spring-boot.version>
     <druid.version>1.2.16</druid.version>
 
     <h2.version>2.1.214</h2.version>
