@@ -71,7 +71,7 @@
 
     <!-- apache components start-->
     <commons-lang.version>2.6</commons-lang.version>
-    <commons-io.version>2.6</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <!-- apache components end-->
 
     <downloadSources>false</downloadSources>
