@@ -48,7 +48,7 @@
     <feign-okhttp.version>10.10.1</feign-okhttp.version>
     <okhttp3.client.version>3.14.6</okhttp3.client.version>
     <!--        <swagger.version>3.0.0</swagger.version>-->
-    <knife4j.version>1.9.6</knife4j.version>
+    <knife4j.version>3.0.3</knife4j.version>
     <!--end 客户端中间件-->
 
     <jsonwebtoken.jjwt.version>0.9.1</jsonwebtoken.jjwt.version>
