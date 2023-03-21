@@ -31,7 +31,7 @@
     <spring-cloud-alibaba.version>2021.0.4.0</spring-cloud-alibaba.version>
     <spring-cloud-starter-oauth2.version>2.2.5.RELEASE</spring-cloud-starter-oauth2.version>
 
-    <mysql.version>8.0.29</mysql.version>
+    <mysql.version>8.0.30</mysql.version>
     <druid-spring-boot.version>1.2.16</druid-spring-boot.version>
     <druid.version>1.2.16</druid.version>
 
