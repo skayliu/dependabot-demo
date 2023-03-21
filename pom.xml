@@ -44,7 +44,7 @@
 
     <xxl-job.version>2.3.1</xxl-job.version>
     <kafka.version>2.0.0</kafka.version>
-    <unboundid-ldapsdk.version>4.0.5</unboundid-ldapsdk.version>
+    <unboundid-ldapsdk.version>6.0.8</unboundid-ldapsdk.version>
     <feign-okhttp.version>10.10.1</feign-okhttp.version>
     <okhttp3.client.version>3.14.6</okhttp3.client.version>
     <!--        <swagger.version>3.0.0</swagger.version>-->
