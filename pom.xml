@@ -52,7 +52,7 @@
     <!--end 客户端中间件-->
 
     <jsonwebtoken.jjwt.version>0.6.0</jsonwebtoken.jjwt.version>
-    <nimbus-jose-jwt.version>9.22</nimbus-jose-jwt.version>
+    <nimbus-jose-jwt.version>9.31</nimbus-jose-jwt.version>
     <disruptor.version>3.4.4</disruptor.version>
 
     <javassist.version>3.29.2-GA</javassist.version>
