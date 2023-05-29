@@ -59,7 +59,7 @@
     <guava.version>31.1-jre</guava.version>
     <hutool.version>5.8.15</hutool.version>
     <fastjson.version>1.2.83</fastjson.version>
-    <fastjson2.version>2.0.4</fastjson2.version>
+    <fastjson2.version>2.0.33</fastjson2.version>
     <transmittable.version>2.14.2</transmittable.version>
     <autopoi.version>1.2.2</autopoi.version>
     <easypoi.version>2.4.0</easypoi.version>
